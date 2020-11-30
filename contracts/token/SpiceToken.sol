@@ -12,7 +12,7 @@ contract SpiceToken {
     uint8 public constant decimals = 18;
 
     /// @notice Total number of tokens in circulation
-    uint public constant totalSupply = 100000000e18; // 100 million SPICE
+    uint public constant totalSupply = 42000000e18; // 42 million SPICE
 
     /// @notice Allowance amounts on behalf of others
     mapping (address => mapping (address => uint96)) internal allowances;
