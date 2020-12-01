@@ -39,7 +39,7 @@ yarn deploy:production
 ``` 
 
 ## Mainnet-fork token deployment
-Start a local mainnet fork as explained [here](https://github.com/SciFiToken/scifi-contracts#forking-the-mainnet)
+Start a local mainnet fork as explained [here](https://github.com/spicedao/scifi-contracts#forking-the-mainnet)
 
 Set `.env` variables (just needed for storing the results in the json files):
 ```
